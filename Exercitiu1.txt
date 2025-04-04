@@ -1,0 +1,2138 @@
+2025-04-04 12:53:34 root@5b268d22e8d6:/# apt update && apt install -y dnsutils
+2025-04-04 12:53:34 
+
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble InRelease [256 kB]
+2025-04-04 12:53:34 
+2000-01-01 00:00:00 [1 InRelease 13.7 kB/256 kB 5%] [Waiting for headers]
+                                                        
+2001-02-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+2025-04-04 12:53:35 
+2000-01-01 00:00:00 [1 InRelease 13.7 kB/256 kB 5%] [2 InRelease 13.7 kB/126 kB 11%]
+                                                                   
+2000-01-01 00:00:00 [2 InRelease 116 kB/126 kB 92%]
+                                  
+2000-01-01 00:00:00 [Waiting for headers]
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-03-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+2025-04-04 12:53:35 
+2000-01-01 00:00:00 [3 InRelease 5678 B/126 kB 5%]
+                                 
+2000-01-01 00:00:00 [Working]
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-04-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+2025-04-04 12:53:35 
+2000-01-01 00:00:00 [4 InRelease 5292 B/126 kB 4%] [Waiting for headers]
+                                                       
+2000-01-01 00:00:00 [Waiting for headers]
+2000-01-01 00:00:00 [Waiting for headers] [Waiting for headers]
+14% [Waiting for headers] [Waiting for headers]
+                                               
+2001-05-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/universe amd64 Packages [19.3 MB]
+2025-04-04 12:53:35 
+14% [5 Packages 16.4 kB/19.3 MB 0%] [Waiting for headers]
+                                                         
+2001-06-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [1074 kB]
+2025-04-04 12:53:36 
+14% [5 Packages 161 kB/19.3 MB 1%] [6 Packages 5359 B/1074 kB 0%]
+25% [5 Packages 3503 kB/19.3 MB 18%] [6 Packages 577 kB/1074 kB 54%]
+2042-01-01 00:00:00 [5 Packages 9087 kB/19.3 MB 47%] [6 Packages 1050 kB/1074 kB 98%]
+                                                                     
+2045-01-01 00:00:00 [5 Packages 10.3 MB/19.3 MB 53%]
+2045-01-01 00:00:00 [6 Packages store 0 B] [5 Packages 10.3 MB/19.3 MB 53%] [Waiting for headers]
+                                                                                 
+2049-01-01 00:00:00 [5 Packages 11.6 MB/19.3 MB 60%] [Waiting for headers]
+                                                          
+2001-07-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1070 kB]
+2025-04-04 12:53:37 
+1951-01-01 00:00:00 [5 Packages 12.3 MB/19.3 MB 63%] [7 Packages 2559 B/1070 kB 0%]
+                                                                   
+1966-01-01 00:00:00 [5 Packages 16.7 MB/19.3 MB 87%] [Waiting for headers]
+                                                          
+2001-08-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Packages [21.9 kB]
+2025-04-04 12:53:37 
+1966-01-01 00:00:00 [5 Packages 16.7 MB/19.3 MB 87%] [8 Packages 1514 B/21.9 kB 7%]
+1966-01-01 00:00:00 [7 Packages store 0 B] [5 Packages 16.7 MB/19.3 MB 87%] [8 Packages 1514 B/21.9 kB 7%]
+                                                                                          
+1967-01-01 00:00:00 [7 Packages store 0 B] [5 Packages 16.8 MB/19.3 MB 87%] [Waiting for headers]
+                                                                                 
+2001-09-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [928 kB]
+2025-04-04 12:53:37 
+1967-01-01 00:00:00 [7 Packages store 0 B] [5 Packages 16.8 MB/19.3 MB 87%] [9 Packages 90 B/928 kB 0%]
+                                                                                       
+1969-01-01 00:00:00 [5 Packages 17.2 MB/19.3 MB 89%] [9 Packages 99.6 kB/928 kB 11%]
+1969-01-01 00:00:00 [8 Packages store 0 B] [5 Packages 17.2 MB/19.3 MB 89%] [9 Packages 99.6 kB/928 kB 11%]
+                                                                                           
+1969-01-01 00:00:00 [5 Packages 17.2 MB/19.3 MB 89%] [9 Packages 102 kB/928 kB 11%]
+                                                                   
+1977-01-01 00:00:00 [Waiting for headers] [9 Packages 704 kB/928 kB 76%]
+                                                        
+2001-10-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 Packages [331 kB]
+2025-04-04 12:53:37 
+1977-01-01 00:00:00 [10 Packages 36.9 kB/331 kB 11%] [9 Packages 707 kB/928 kB 76%]
+1977-01-01 00:00:00 [5 Packages store 0 B] [10 Packages 45.1 kB/331 kB 14%] [9 Packages 707 kB/928 kB 76%]
+                                                                                          
+1977-01-01 00:00:00 [5 Packages store 0 B] [9 Packages 729 kB/928 kB 79%]
+                                                         
+2001-11-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 Packages [1808 kB]
+2025-04-04 12:53:37 
+1978-01-01 00:00:00 [5 Packages store 0 B] [11 Packages 10.7 kB/1808 kB 1%] [9 Packages 730 kB/928 kB 79%]
+                                                                                          
+1980-01-01 00:00:00 [5 Packages store 0 B] [11 Packages 781 kB/1808 kB 43%]
+                                                           
+1983-01-01 00:00:00 [5 Packages store 0 B] [Waiting for headers]
+                                                
+2001-12-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/restricted amd64 Packages [117 kB]
+2025-04-04 12:53:37 
+1983-01-01 00:00:00 [5 Packages store 0 B] [12 Packages 2665 B/117 kB 2%]
+                                                         
+1983-01-01 00:00:00 [5 Packages store 0 B] [Waiting for headers]
+                                                
+Get:13 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [26.4 kB]
+2025-04-04 12:53:37 
+1983-01-01 00:00:00 [5 Packages store 0 B] [13 Packages 16.6 kB/26.4 kB 63%]
+                                                            
+1983-01-01 00:00:00 [5 Packages store 0 B] [Waiting for headers]
+                                                
+Get:14 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [1126 kB]
+2025-04-04 12:53:37 
+1983-01-01 00:00:00 [5 Packages store 0 B] [14 Packages 16.4 kB/1126 kB 1%]
+                                                           
+1986-01-01 00:00:00 [5 Packages store 0 B] [Waiting for headers]
+                                                
+Get:15 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [1252 kB]
+2025-04-04 12:53:37 
+1987-01-01 00:00:00 [5 Packages store 0 B] [15 Packages 3560 B/1252 kB 0%]
+                                                          
+1990-01-01 00:00:00 [5 Packages store 0 B] [Waiting for headers]
+                                                
+Get:16 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [1364 kB]
+2025-04-04 12:53:38 
+1990-01-01 00:00:00 [5 Packages store 0 B] [16 Packages 15.4 kB/1364 kB 1%]
+                                                           
+1994-01-01 00:00:00 [5 Packages store 0 B] [Waiting for headers]
+                                                
+Get:17 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Packages [48.0 kB]
+2025-04-04 12:53:38 
+1994-01-01 00:00:00 [5 Packages store 0 B] [17 Packages 12.5 kB/48.0 kB 26%]
+                                                            
+1994-01-01 00:00:00 [5 Packages store 0 B] [Waiting for headers]
+                                                
+Get:18 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [30.9 kB]
+2025-04-04 12:53:38 
+1994-01-01 00:00:00 [5 Packages store 0 B] [18 Packages 6229 B/30.9 kB 20%]
+                                                           
+1994-01-01 00:00:00 [5 Packages store 0 B]
+                          
+1994-01-01 00:00:00 [Working]
+1994-01-01 00:00:00 [10 Packages store 0 B]
+                           
+1995-01-01 00:00:00 [Working]
+1995-01-01 00:00:00 [9 Packages store 0 B]
+                          
+1996-01-01 00:00:00 [Working]
+1996-01-01 00:00:00 [11 Packages store 0 B]
+                           
+1996-01-01 00:00:00 [Working]
+1996-01-01 00:00:00 [12 Packages store 0 B]
+                           
+1997-01-01 00:00:00 [Working]
+1997-01-01 00:00:00 [13 Packages store 0 B]
+                           
+1997-01-01 00:00:00 [Working]
+1997-01-01 00:00:00 [14 Packages store 0 B]
+                           
+1998-01-01 00:00:00 [Working]
+1998-01-01 00:00:00 [15 Packages store 0 B]
+                           
+1998-01-01 00:00:00 [Working]
+1998-01-01 00:00:00 [16 Packages store 0 B]
+                           
+1999-01-01 00:00:00 [Working]
+1999-01-01 00:00:00 [17 Packages store 0 B]
+                           
+1999-01-01 00:00:00 [Working]
+1999-01-01 00:00:00 [18 Packages store 0 B]
+                           
+0100-01-01 00:00:00 [Working]
+              
+Fetched 29.1 MB in 4s (7355 kB/s)
+2025-04-04 12:53:39 
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 12:53:39 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 12:53:39 
+Reading state information... 0% 
+
+Reading state information... 98%
+
+Reading state information... Done
+
+2025-04-04 12:53:39 20 packages can be upgraded. Run 'apt list --upgradable' to see them.
+2025-04-04 12:53:40 
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 12:53:40 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 12:53:40 
+Reading state information... 0% 
+
+Reading state information... 98%
+
+Reading state information... Done
+
+2025-04-04 12:53:40 The following additional packages will be installed:
+2025-04-04 12:53:40   bind9-dnsutils bind9-host bind9-libs krb5-locales libbsd0 libedit2 libgssapi-krb5-2 libicu74 libjson-c5
+2025-04-04 12:53:40   libk5crypto3 libkeyutils1 libkrb5-3 libkrb5support0 liblmdb0 libmaxminddb0 libnghttp2-14 libuv1t64 libxml2
+2025-04-04 12:53:40 Suggested packages:
+2025-04-04 12:53:40   krb5-doc krb5-user mmdb-bin
+2025-04-04 12:53:40 The following NEW packages will be installed:
+2025-04-04 12:53:40   bind9-dnsutils bind9-host bind9-libs dnsutils krb5-locales libbsd0 libedit2 libgssapi-krb5-2 libicu74
+2025-04-04 12:53:40   libjson-c5 libk5crypto3 libkeyutils1 libkrb5-3 libkrb5support0 liblmdb0 libmaxminddb0 libnghttp2-14
+2025-04-04 12:53:40   libuv1t64 libxml2
+2025-04-04 12:53:40 0 upgraded, 19 newly installed, 0 to remove and 20 not upgraded.
+2025-04-04 12:53:40 Need to get 14.1 MB of archives.
+2025-04-04 12:53:40 After this operation, 46.3 MB of additional disk space will be used.
+2025-04-04 12:53:40 
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 krb5-locales all 1.20.1-6ubuntu2.5 [14.5 kB]
+2025-04-04 12:53:41 
+2000-01-01 00:00:00 [1 krb5-locales 8110 B/14.5 kB 56%]
+                                      
+2001-01-01 00:00:00 [Working]
+            
+2001-02-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libbsd0 amd64 0.12.1-1build1.1 [41.2 kB]
+2025-04-04 12:53:41 
+2001-01-01 00:00:00 [2 libbsd0 8110 B/41.2 kB 20%]
+                                 
+2001-02-01 00:00:00 [Waiting for headers]
+                        
+2001-03-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libkrb5support0 amd64 1.20.1-6ubuntu2.5 [34.1 kB]
+2025-04-04 12:53:41 
+2001-02-01 00:00:00 [3 libkrb5support0 4382 B/34.1 kB 13%]
+                                         
+2001-04-01 00:00:00 [Waiting for headers]
+                        
+2001-04-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libk5crypto3 amd64 1.20.1-6ubuntu2.5 [82.0 kB]
+2025-04-04 12:53:41 
+2001-04-01 00:00:00 [4 libk5crypto3 769 B/82.0 kB 1%]
+                                    
+2001-05-01 00:00:00 [Waiting for headers]
+                        
+2001-05-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libkeyutils1 amd64 1.6.3-3build1 [9490 B]
+2025-04-04 12:53:41 
+2001-05-01 00:00:00 [5 libkeyutils1 6722 B/9490 B 71%]
+                                     
+2001-06-01 00:00:00 [Waiting for headers]
+                        
+2001-06-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libkrb5-3 amd64 1.20.1-6ubuntu2.5 [347 kB]
+2025-04-04 12:53:41 
+2001-06-01 00:00:00 [6 libkrb5-3 5340 B/347 kB 2%]
+                                 
+2001-09-01 00:00:00 [Waiting for headers]
+                        
+2001-07-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libgssapi-krb5-2 amd64 1.20.1-6ubuntu2.5 [143 kB]
+2025-04-04 12:53:41 
+2001-09-01 00:00:00 [7 libgssapi-krb5-2 17.6 kB/143 kB 12%]
+                                          
+2001-11-01 00:00:00 [Waiting for headers]
+                         
+2001-08-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libicu74 amd64 74.2-1ubuntu3.1 [10.9 MB]
+2025-04-04 12:53:42 
+2001-11-01 00:00:00 [8 libicu74 3663 B/10.9 MB 0%]
+2043-01-01 00:00:00 [8 libicu74 5541 kB/10.9 MB 51%]
+1972-01-01 00:00:00 [8 libicu74 10.8 MB/10.9 MB 99%]
+                                    
+1974-01-01 00:00:00 [Waiting for headers]
+                         
+2001-09-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libjson-c5 amd64 0.17-1build1 [35.3 kB]
+2025-04-04 12:53:42 
+1974-01-01 00:00:00 [9 libjson-c5 28.7 kB/35.3 kB 81%]
+                                      
+1975-01-01 00:00:00 [Working]
+             
+2001-10-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libxml2 amd64 2.9.14+dfsg-1.3ubuntu3.2 [763 kB]
+2025-04-04 12:53:42 
+1975-01-01 00:00:00 [10 libxml2 30.0 kB/763 kB 4%]
+                                  
+1980-01-01 00:00:00 [Waiting for headers]
+                         
+2001-11-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libuv1t64 amd64 1.48.0-1.1build1 [97.3 kB]
+2025-04-04 12:53:42 
+1980-01-01 00:00:00 [11 libuv1t64 8192 B/97.3 kB 8%]
+                                    
+1982-01-01 00:00:00 [Waiting for headers]
+                         
+2001-12-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 liblmdb0 amd64 0.9.31-1build1 [48.1 kB]
+2025-04-04 12:53:42 
+1982-01-01 00:00:00 [12 liblmdb0 2919 B/48.1 kB 6%]
+                                   
+1983-01-01 00:00:00 [Waiting for headers]
+                         
+Get:13 http://archive.ubuntu.com/ubuntu noble/main amd64 libmaxminddb0 amd64 1.9.1-1build1 [24.4 kB]
+2025-04-04 12:53:42 
+1983-01-01 00:00:00 [13 libmaxminddb0 23.0 kB/24.4 kB 94%]
+                                          
+1984-01-01 00:00:00 [Waiting for headers]
+                         
+Get:14 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libnghttp2-14 amd64 1.59.0-1ubuntu0.2 [74.3 kB]
+2025-04-04 12:53:42 
+1985-01-01 00:00:00 [14 libnghttp2-14 32.8 kB/74.3 kB 44%]
+                                          
+1986-01-01 00:00:00 [Waiting for headers]
+                         
+Get:15 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 bind9-libs amd64 1:9.18.30-0ubuntu0.24.04.2 [1253 kB]
+2025-04-04 12:53:42 
+1986-01-01 00:00:00 [15 bind9-libs 14.8 kB/1253 kB 1%]
+                                      
+1994-01-01 00:00:00 [Waiting for headers]
+                         
+Get:16 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 bind9-host amd64 1:9.18.30-0ubuntu0.24.04.2 [50.4 kB]
+2025-04-04 12:53:42 
+1994-01-01 00:00:00 [16 bind9-host 24.6 kB/50.4 kB 49%]
+                                       
+1995-01-01 00:00:00 [Waiting for headers]
+                         
+Get:17 http://archive.ubuntu.com/ubuntu noble/main amd64 libedit2 amd64 3.1-20230828-1build1 [97.6 kB]
+2025-04-04 12:53:42 
+1995-01-01 00:00:00 [17 libedit2 12.3 kB/97.6 kB 13%]
+                                     
+1997-01-01 00:00:00 [Waiting for headers]
+                         
+Get:18 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 bind9-dnsutils amd64 1:9.18.30-0ubuntu0.24.04.2 [155 kB]
+2025-04-04 12:53:42 
+1997-01-01 00:00:00 [18 bind9-dnsutils 4239 B/155 kB 3%]
+                                        
+1999-01-01 00:00:00 [Waiting for headers]
+                         
+Get:19 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 dnsutils all 1:9.18.30-0ubuntu0.24.04.2 [3682 B]
+2025-04-04 12:53:42 
+1999-01-01 00:00:00 [19 dnsutils 3682 B/3682 B 100%]
+                                    
+0100-01-01 00:00:00 [Working]
+              
+Fetched 14.1 MB in 2s (8942 kB/s)
+2025-04-04 12:53:42 debconf: delaying package configuration, since apt-utils is not installed
+2025-04-04 12:53:42 Selecting previously unselected package krb5-locales.
+2025-04-04 12:53:42 (Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 4383 files and directories currently installed.)
+2025-04-04 12:53:42 Preparing to unpack .../00-krb5-locales_1.20.1-6ubuntu2.5_all.deb ...
+Progress: [  1%] [#.Unpacking krb5-locales (1.20.1-6ubuntu2.5) .............................................] 
+Progress: [  3%] [##Selecting previously unselected package libbsd0:amd64...................................] 
+2025-04-04 12:53:42 Preparing to unpack .../01-libbsd0_0.12.1-1build1.1_amd64.deb ...
+Progress: [  4%] [##Unpacking libbsd0:amd64 (0.12.1-1build1.1) .............................................] 
+Progress: [  5%] [##Selecting previously unselected package libkrb5support0:amd64...........................] 
+2025-04-04 12:53:42 Preparing to unpack .../02-libkrb5support0_1.20.1-6ubuntu2.5_amd64.deb ...
+Progress: [  6%] [##Unpacking libkrb5support0:amd64 (1.20.1-6ubuntu2.5) ....................................] 
+Progress: [  8%] [##Selecting previously unselected package libk5crypto3:amd64..............................] 
+2025-04-04 12:53:42 Preparing to unpack .../03-libk5crypto3_1.20.1-6ubuntu2.5_amd64.deb ...
+Progress: [  9%] [##Unpacking libk5crypto3:amd64 (1.20.1-6ubuntu2.5) .......................................] 
+Progress: [ 10%] [##Selecting previously unselected package libkeyutils1:amd64..............................] 
+2025-04-04 12:53:42 Preparing to unpack .../04-libkeyutils1_1.6.3-3build1_amd64.deb ...
+Progress: [ 12%] [##Unpacking libkeyutils1:amd64 (1.6.3-3build1) ...........................................] 
+Progress: [ 13%] [##Selecting previously unselected package libkrb5-3:amd64.................................] 
+2025-04-04 12:53:43 Preparing to unpack .../05-libkrb5-3_1.20.1-6ubuntu2.5_amd64.deb ...
+Progress: [ 14%] [##Unpacking libkrb5-3:amd64 (1.20.1-6ubuntu2.5) ..........................................] 
+Progress: [ 16%] [##Selecting previously unselected package libgssapi-krb5-2:amd64..........................] 
+2025-04-04 12:53:43 Preparing to unpack .../06-libgssapi-krb5-2_1.20.1-6ubuntu2.5_amd64.deb ...
+Progress: [ 17%] [##Unpacking libgssapi-krb5-2:amd64 (1.20.1-6ubuntu2.5) ...................................] 
+Progress: [ 18%] [##Selecting previously unselected package libicu74:amd64..................................] 
+2025-04-04 12:53:43 Preparing to unpack .../07-libicu74_74.2-1ubuntu3.1_amd64.deb ...
+Progress: [ 19%] [##Unpacking libicu74:amd64 (74.2-1ubuntu3.1) .............................................] 
+Progress: [ 21%] [##Selecting previously unselected package libjson-c5:amd64................................] 
+2025-04-04 12:53:43 Preparing to unpack .../08-libjson-c5_0.17-1build1_amd64.deb ...
+Progress: [ 22%] [##Unpacking libjson-c5:amd64 (0.17-1build1) ..............................................] 
+Progress: [ 23%] [##Selecting previously unselected package libxml2:amd64...................................] 
+2025-04-04 12:53:43 Preparing to unpack .../09-libxml2_2.9.14+dfsg-1.3ubuntu3.2_amd64.deb ...
+Progress: [ 25%] [##Unpacking libxml2:amd64 (2.9.14+dfsg-1.3ubuntu3.2) .....................................] 
+Progress: [ 26%] [##Selecting previously unselected package libuv1t64:amd64.................................] 
+2025-04-04 12:53:43 Preparing to unpack .../10-libuv1t64_1.48.0-1.1build1_amd64.deb ...
+Progress: [ 27%] [##Unpacking libuv1t64:amd64 (1.48.0-1.1build1) ...........................................] 
+Progress: [ 29%] [##Selecting previously unselected package liblmdb0:amd64..................................] 
+2025-04-04 12:53:43 Preparing to unpack .../11-liblmdb0_0.9.31-1build1_amd64.deb ...
+Progress: [ 30%] [##Unpacking liblmdb0:amd64 (0.9.31-1build1) ..............................................] 
+Progress: [ 31%] [##Selecting previously unselected package libmaxminddb0:amd64.............................] 
+2025-04-04 12:53:43 Preparing to unpack .../12-libmaxminddb0_1.9.1-1build1_amd64.deb ...
+Progress: [ 32%] [##Unpacking libmaxminddb0:amd64 (1.9.1-1build1) ..........................................] 
+Progress: [ 34%] [##Selecting previously unselected package libnghttp2-14:amd64.............................] 
+2025-04-04 12:53:43 Preparing to unpack .../13-libnghttp2-14_1.59.0-1ubuntu0.2_amd64.deb ...
+Progress: [ 35%] [##Unpacking libnghttp2-14:amd64 (1.59.0-1ubuntu0.2) ......................................] 
+Progress: [ 36%] [##Selecting previously unselected package bind9-libs:amd64................................] 
+2025-04-04 12:53:43 Preparing to unpack .../14-bind9-libs_1%3a9.18.30-0ubuntu0.24.04.2_amd64.deb ...
+Progress: [ 38%] [##Unpacking bind9-libs:amd64 (1:9.18.30-0ubuntu0.24.04.2) ................................] 
+Progress: [ 39%] [##Selecting previously unselected package bind9-host......................................] 
+2025-04-04 12:53:43 Preparing to unpack .../15-bind9-host_1%3a9.18.30-0ubuntu0.24.04.2_amd64.deb ...
+Progress: [ 40%] [##Unpacking bind9-host (1:9.18.30-0ubuntu0.24.04.2) ......................................] 
+Progress: [ 42%] [##Selecting previously unselected package libedit2:amd64..................................] 
+2025-04-04 12:53:43 Preparing to unpack .../16-libedit2_3.1-20230828-1build1_amd64.deb ...
+Progress: [ 43%] [##Unpacking libedit2:amd64 (3.1-20230828-1build1) ........................................] 
+Progress: [ 44%] [##Selecting previously unselected package bind9-dnsutils..................................] 
+2025-04-04 12:53:44 Preparing to unpack .../17-bind9-dnsutils_1%3a9.18.30-0ubuntu0.24.04.2_amd64.deb ...
+Progress: [ 45%] [##Unpacking bind9-dnsutils (1:9.18.30-0ubuntu0.24.04.2) ..................................] 
+Progress: [ 47%] [##Selecting previously unselected package dnsutils........................................] 
+2025-04-04 12:53:44 Preparing to unpack .../18-dnsutils_1%3a9.18.30-0ubuntu0.24.04.2_all.deb ...
+Progress: [ 48%] [##Unpacking dnsutils (1:9.18.30-0ubuntu0.24.04.2) ........................................] 
+Progress: [ 49%] [##Setting up liblmdb0:amd64 (0.9.31-1build1) .............................................] 
+Progress: [ 52%] [##Setting up libkeyutils1:amd64 (1.6.3-3build1) ..........................................] 
+Progress: [ 55%] [##Setting up libmaxminddb0:amd64 (1.9.1-1build1) .........................................] 
+Progress: [ 57%] [##Setting up libuv1t64:amd64 (1.48.0-1.1build1) ..........................................] 
+Progress: [ 60%] [##Setting up libnghttp2-14:amd64 (1.59.0-1ubuntu0.2) .....................................] 
+Progress: [ 62%] [##Setting up krb5-locales (1.20.1-6ubuntu2.5) ...#######..................................] 
+Progress: [ 65%] [##Setting up libkrb5support0:amd64 (1.20.1-6ubuntu2.5) ...................................] 
+Progress: [ 68%] [##Setting up libk5crypto3:amd64 (1.20.1-6ubuntu2.5) ...#####..............................] 
+Progress: [ 70%] [##Setting up libicu74:amd64 (74.2-1ubuntu3.1) ...##############...........................] 
+Progress: [ 73%] [##Setting up libkrb5-3:amd64 (1.20.1-6ubuntu2.5) ...#############.........................] 
+Progress: [ 75%] [##Setting up libbsd0:amd64 (0.12.1-1build1.1) ...##################.......................] 
+Progress: [ 78%] [##Setting up libjson-c5:amd64 (0.17-1build1) ...######################....................] 
+Progress: [ 81%] [##Setting up libxml2:amd64 (2.9.14+dfsg-1.3ubuntu3.2) ...###############..................] 
+Progress: [ 83%] [##Setting up libedit2:amd64 (3.1-20230828-1build1) ...####################................] 
+Progress: [ 86%] [##Setting up libgssapi-krb5-2:amd64 (1.20.1-6ubuntu2.5) ...##################.............] 
+Progress: [ 88%] [##Setting up bind9-libs:amd64 (1:9.18.30-0ubuntu0.24.04.2) ...#################...........] 
+Progress: [ 91%] [##Setting up bind9-host (1:9.18.30-0ubuntu0.24.04.2) ...#########################.........] 
+Progress: [ 94%] [##Setting up bind9-dnsutils (1:9.18.30-0ubuntu0.24.04.2) ...########################......] 
+Progress: [ 96%] [##Setting up dnsutils (1:9.18.30-0ubuntu0.24.04.2) ...################################....] 
+Progress: [ 99%] [##Processing triggers for libc-bin (2.39-0ubuntu8.3) ...################################..] 
+2025-04-04 12:53:44 root@5b268d22e8d6:/# nslookup cloudflare.com
+2025-04-04 12:54:09 
+Server:192.168.65.7
+2025-04-04 12:54:09 Address:192.168.65.7#53
+2025-04-04 12:54:09 
+2025-04-04 12:54:09 Non-authoritative answer:
+2025-04-04 12:54:09 Name:cloudflare.com
+2025-04-04 12:54:09 Address: 104.16.133.229
+2025-04-04 12:54:09 Name:cloudflare.com
+2025-04-04 12:54:09 Address: 104.16.132.229
+2025-04-04 12:54:09 Name:cloudflare.com
+2025-04-04 12:54:09 Address: 2606:4700::6810:85e5
+2025-04-04 12:54:09 Name:cloudflare.com
+2025-04-04 12:54:09 Address: 2606:4700::6810:84e5
+2025-04-04 12:54:09 
+2025-04-04 12:55:01 root@5b268d22e8d6:/# echo "8.8.8.8 google-dns" >> /etc/hosts
+2025-04-04 12:55:08 
+root@5b268d22e8d6:/# cat /etc/hosts
+2025-04-04 12:55:08 
+127.0.0.1localhost
+2025-04-04 12:55:08 ::1localhost ip6-localhost ip6-loopback
+2025-04-04 12:55:08 fe00::ip6-localnet
+2025-04-04 12:55:08 ff00::ip6-mcastprefix
+2025-04-04 12:55:08 ff02::1ip6-allnodes
+2025-04-04 12:55:08 ff02::2ip6-allrouters
+2025-04-04 12:55:08 172.17.0.35b268d22e8d6
+2025-04-04 12:55:08 8.8.8.8 google-dns
+2025-04-04 12:55:23 root@5b268d22e8d6:/# ping -c 4 google-dns
+2025-04-04 12:55:23 
+bash: ping: command not found
+2025-04-04 12:55:45 root@5b268d22e8d6:/# nc -zv google-dns 53
+2025-04-04 12:55:45 
+bash: nc: command not found
+2025-04-04 12:56:43 root@5b268d22e8d6:/# ping -c 4 google-dns
+2025-04-04 12:56:43 
+bash: ping: command not found
+2025-04-04 12:57:03 root@5b268d22e8d6:/# telnet google-dns 53
+2025-04-04 12:57:03 
+bash: telnet: command not found
+2025-04-04 12:57:16 root@5b268d22e8d6:/# apt update && apt install -y netcat
+2025-04-04 12:57:16 
+
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble InRelease
+2025-04-04 12:57:16 
+2000-01-01 00:00:00 [Connecting to security.ubuntu.com]
+2000-01-01 00:00:00 [Waiting for headers] [Connecting to security.ubuntu.com (91.189.91.81)]
+                                                                           
+2001-02-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+2025-04-04 12:57:16 
+                                                                           
+2000-01-01 00:00:00 [Connecting to security.ubuntu.com (91.189.91.81)]
+                                                     
+2001-03-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+2025-04-04 12:57:16 
+                                                     
+2000-01-01 00:00:00 [Waiting for headers]
+2000-01-01 00:00:00 [Waiting for headers]
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-04-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security InRelease
+2025-04-04 12:57:17 
+                        
+2000-01-01 00:00:00 [Working]
+20% [Working]
+             
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 94%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 12:57:17 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 12:57:17 
+Reading state information... 0% 
+
+Reading state information... 5%
+
+Reading state information... Done
+
+2025-04-04 12:57:17 20 packages can be upgraded. Run 'apt list --upgradable' to see them.
+2025-04-04 12:57:18 
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 91%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 12:57:19 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 12:57:19 
+Reading state information... 0% 
+
+Reading state information... 5%
+
+Reading state information... Done
+
+2025-04-04 12:57:19 Package netcat is a virtual package provided by:
+2025-04-04 12:57:19   netcat-traditional 1.10-48
+2025-04-04 12:57:19   netcat-openbsd 1.226-1ubuntu2
+2025-04-04 12:57:19 You should explicitly select one to install.
+2025-04-04 12:57:19 
+2025-04-04 12:57:19 E: Package 'netcat' has no installation candidate
+2025-04-04 12:57:36 root@5b268d22e8d6:/# apt install -y nmap
+2025-04-04 12:57:37 
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 97%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 12:57:37 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 12:57:37 
+Reading state information... 0% 
+
+Reading state information... 5%
+
+Reading state information... Done
+
+2025-04-04 12:57:37 The following additional packages will be installed:
+2025-04-04 12:57:37   adduser dbus dbus-bin dbus-daemon dbus-session-bus-common dbus-system-bus-common ibverbs-providers
+2025-04-04 12:57:37   libapparmor1 libblas3 libdbus-1-3 libexpat1 libibverbs1 liblinear4 liblua5.4-0 libnl-3-200 libnl-route-3-200
+2025-04-04 12:57:37   libpcap0.8t64 libssh2-1t64 nmap-common
+2025-04-04 12:57:37 Suggested packages:
+2025-04-04 12:57:37   liblocale-gettext-perl perl cron quota ecryptfs-utils default-dbus-session-bus | dbus-session-bus
+2025-04-04 12:57:37   liblinear-tools liblinear-dev ncat ndiff zenmap
+2025-04-04 12:57:37 The following NEW packages will be installed:
+2025-04-04 12:57:37   adduser dbus dbus-bin dbus-daemon dbus-session-bus-common dbus-system-bus-common ibverbs-providers
+2025-04-04 12:57:37   libapparmor1 libblas3 libdbus-1-3 libexpat1 libibverbs1 liblinear4 liblua5.4-0 libnl-3-200 libnl-route-3-200
+2025-04-04 12:57:37   libpcap0.8t64 libssh2-1t64 nmap nmap-common
+2025-04-04 12:57:37 0 upgraded, 20 newly installed, 0 to remove and 20 not upgraded.
+2025-04-04 12:57:37 Need to get 8082 kB of archives.
+2025-04-04 12:57:37 After this operation, 33.1 MB of additional disk space will be used.
+2025-04-04 12:57:37 
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 adduser all 3.137ubuntu1 [101 kB]
+2025-04-04 12:57:38 
+2000-01-01 00:00:00 [1 adduser 13.7 kB/101 kB 14%]
+                                 
+2001-02-01 00:00:00 [Working]
+            
+2001-02-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libdbus-1-3 amd64 1.14.10-4ubuntu4.1 [210 kB]
+2025-04-04 12:57:38 
+2001-02-01 00:00:00 [2 libdbus-1-3 17.9 kB/210 kB 9%]
+                                    
+2001-05-01 00:00:00 [Waiting for headers]
+                        
+2001-03-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 dbus-bin amd64 1.14.10-4ubuntu4.1 [39.3 kB]
+2025-04-04 12:57:38 
+2001-05-01 00:00:00 [3 dbus-bin 21.8 kB/39.3 kB 56%]
+                                   
+2001-06-01 00:00:00 [Waiting for headers]
+                        
+2001-04-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 dbus-session-bus-common all 1.14.10-4ubuntu4.1 [80.5 kB]
+2025-04-04 12:57:38 
+2001-07-01 00:00:00 [4 dbus-session-bus-common 10.3 kB/80.5 kB 13%]
+                                                  
+2001-08-01 00:00:00 [Waiting for headers]
+                        
+2001-05-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libapparmor1 amd64 4.0.1really4.0.1-0ubuntu0.24.04.3 [50.3 kB]
+2025-04-04 12:57:38 
+2001-09-01 00:00:00 [5 libapparmor1 26.8 kB/50.3 kB 53%]
+                                       
+2001-10-01 00:00:00 [Waiting for headers]
+                         
+2001-06-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libexpat1 amd64 2.6.1-2ubuntu0.2 [87.4 kB]
+2025-04-04 12:57:38 
+2001-10-01 00:00:00 [6 libexpat1 1803 B/87.4 kB 2%]
+                                   
+2001-12-01 00:00:00 [Waiting for headers]
+                         
+2001-07-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 dbus-daemon amd64 1.14.10-4ubuntu4.1 [118 kB]
+2025-04-04 12:57:38 
+2001-12-01 00:00:00 [7 dbus-daemon 4922 B/118 kB 4%]
+                                    
+14% [Working]
+             
+2001-08-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 dbus-system-bus-common all 1.14.10-4ubuntu4.1 [81.6 kB]
+2025-04-04 12:57:38 
+14% [8 dbus-system-bus-common 41 B/81.6 kB 0%]
+                                              
+16% [Waiting for headers]
+                         
+2001-09-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 dbus amd64 1.14.10-4ubuntu4.1 [24.3 kB]
+2025-04-04 12:57:38 
+16% [9 dbus 11.1 kB/24.3 kB 46%]
+                                
+17% [Waiting for headers]
+                         
+2001-10-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libnl-3-200 amd64 3.7.0-0.3build1.1 [55.7 kB]
+2025-04-04 12:57:38 
+17% [10 libnl-3-200 8944 B/55.7 kB 16%]
+                                       
+18% [Working]
+             
+2001-11-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libnl-route-3-200 amd64 3.7.0-0.3build1.1 [189 kB]
+2025-04-04 12:57:38 
+18% [11 libnl-route-3-200 2954 B/189 kB 2%]
+                                           
+21% [Waiting for headers]
+                         
+2001-12-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libibverbs1 amd64 50.0-2build2 [67.8 kB]
+2025-04-04 12:57:38 
+21% [12 libibverbs1 8006 B/67.8 kB 12%]
+                                       
+23% [Waiting for headers]
+                         
+Get:13 http://archive.ubuntu.com/ubuntu noble/main amd64 ibverbs-providers amd64 50.0-2build2 [374 kB]
+2025-04-04 12:57:38 
+23% [13 ibverbs-providers 7522 B/374 kB 2%]
+                                           
+28% [Waiting for headers]
+                         
+Get:14 http://archive.ubuntu.com/ubuntu noble/main amd64 libpcap0.8t64 amd64 1.10.4-4.1ubuntu3 [151 kB]
+2025-04-04 12:57:38 
+28% [14 libpcap0.8t64 20.5 kB/151 kB 14%]
+                                         
+30% [Waiting for headers]
+                         
+Get:15 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libblas3 amd64 3.12.0-3build1.1 [238 kB]
+2025-04-04 12:57:38 
+30% [15 libblas3 8958 B/238 kB 4%]
+                                  
+2033-01-01 00:00:00 [Waiting for headers]
+                         
+Get:16 http://archive.ubuntu.com/ubuntu noble/universe amd64 liblinear4 amd64 2.3.0+dfsg-5build1 [42.3 kB]
+2025-04-04 12:57:38 
+2034-01-01 00:00:00 [16 liblinear4 6996 B/42.3 kB 17%]
+                                      
+2035-01-01 00:00:00 [Waiting for headers]
+                         
+Get:17 http://archive.ubuntu.com/ubuntu noble/main amd64 liblua5.4-0 amd64 5.4.6-3build2 [166 kB]
+2025-04-04 12:57:38 
+2035-01-01 00:00:00 [17 liblua5.4-0 13.6 kB/166 kB 8%]
+                                      
+2038-01-01 00:00:00 [Waiting for headers]
+                         
+Get:18 http://archive.ubuntu.com/ubuntu noble/main amd64 libssh2-1t64 amd64 1.11.0-4.1build2 [120 kB]
+2025-04-04 12:57:38 
+2038-01-01 00:00:00 [18 libssh2-1t64 1634 B/120 kB 1%]
+                                      
+2040-01-01 00:00:00 [Waiting for headers]
+                         
+Get:19 http://archive.ubuntu.com/ubuntu noble/universe amd64 nmap-common all 7.94+git20230807.3be01efb1+dfsg-3build2 [4192 kB]
+2025-04-04 12:57:39 
+2040-01-01 00:00:00 [19 nmap-common 26.5 kB/4192 kB 1%]
+                                       
+1982-01-01 00:00:00 [Waiting for headers]
+                         
+Get:20 http://archive.ubuntu.com/ubuntu noble/universe amd64 nmap amd64 7.94+git20230807.3be01efb1+dfsg-3build2 [1694 kB]
+2025-04-04 12:57:39 
+1983-01-01 00:00:00 [20 nmap 28.7 kB/1694 kB 2%]
+                                
+0100-01-01 00:00:00 [Working]
+              
+Fetched 8082 kB in 2s (5085 kB/s)
+2025-04-04 12:57:39 debconf: delaying package configuration, since apt-utils is not installed
+2025-04-04 12:57:39 Selecting previously unselected package adduser.
+2025-04-04 12:57:39 (Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 4531 files and directories currently installed.)
+2025-04-04 12:57:39 Preparing to unpack .../adduser_3.137ubuntu1_all.deb ...
+Progress: [  1%] [#.Unpacking adduser (3.137ubuntu1) .......................................................] 
+Progress: [  2%] [##Setting up adduser (3.137ubuntu1) ......................................................] 
+Progress: [  5%] [##Selecting previously unselected package libdbus-1-3:amd64...............................] 
+2025-04-04 12:57:39 (Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 4579 files and directories currently installed.)
+2025-04-04 12:57:39 Preparing to unpack .../00-libdbus-1-3_1.14.10-4ubuntu4.1_amd64.deb ...
+Progress: [  6%] [##Unpacking libdbus-1-3:amd64 (1.14.10-4ubuntu4.1) .......................................] 
+Progress: [  7%] [##Selecting previously unselected package dbus-bin........................................] 
+2025-04-04 12:57:39 Preparing to unpack .../01-dbus-bin_1.14.10-4ubuntu4.1_amd64.deb ...
+Progress: [  9%] [##Unpacking dbus-bin (1.14.10-4ubuntu4.1) ................................................] 
+Progress: [ 10%] [##Selecting previously unselected package dbus-session-bus-common.........................] 
+2025-04-04 12:57:39 Preparing to unpack .../02-dbus-session-bus-common_1.14.10-4ubuntu4.1_all.deb ...
+Progress: [ 11%] [##Unpacking dbus-session-bus-common (1.14.10-4ubuntu4.1) .................................] 
+Progress: [ 12%] [##Selecting previously unselected package libapparmor1:amd64..............................] 
+2025-04-04 12:57:39 Preparing to unpack .../03-libapparmor1_4.0.1really4.0.1-0ubuntu0.24.04.3_amd64.deb ...
+Progress: [ 14%] [##Unpacking libapparmor1:amd64 (4.0.1really4.0.1-0ubuntu0.24.04.3) .......................] 
+Progress: [ 15%] [##Selecting previously unselected package libexpat1:amd64.................................] 
+2025-04-04 12:57:39 Preparing to unpack .../04-libexpat1_2.6.1-2ubuntu0.2_amd64.deb ...
+Progress: [ 16%] [##Unpacking libexpat1:amd64 (2.6.1-2ubuntu0.2) ...........................................] 
+Progress: [ 17%] [##Selecting previously unselected package dbus-daemon.....................................] 
+2025-04-04 12:57:39 Preparing to unpack .../05-dbus-daemon_1.14.10-4ubuntu4.1_amd64.deb ...
+Progress: [ 19%] [##Unpacking dbus-daemon (1.14.10-4ubuntu4.1) .............................................] 
+Progress: [ 20%] [##Selecting previously unselected package dbus-system-bus-common..........................] 
+2025-04-04 12:57:39 Preparing to unpack .../06-dbus-system-bus-common_1.14.10-4ubuntu4.1_all.deb ...
+Progress: [ 21%] [##Unpacking dbus-system-bus-common (1.14.10-4ubuntu4.1) ..................................] 
+Progress: [ 22%] [##Selecting previously unselected package dbus............................................] 
+2025-04-04 12:57:40 Preparing to unpack .../07-dbus_1.14.10-4ubuntu4.1_amd64.deb ...
+Progress: [ 23%] [##Unpacking dbus (1.14.10-4ubuntu4.1) ....................................................] 
+Progress: [ 25%] [##Selecting previously unselected package libnl-3-200:amd64...............................] 
+2025-04-04 12:57:40 Preparing to unpack .../08-libnl-3-200_3.7.0-0.3build1.1_amd64.deb ...
+Progress: [ 26%] [##Unpacking libnl-3-200:amd64 (3.7.0-0.3build1.1) ........................................] 
+Progress: [ 27%] [##Selecting previously unselected package libnl-route-3-200:amd64.........................] 
+2025-04-04 12:57:40 Preparing to unpack .../09-libnl-route-3-200_3.7.0-0.3build1.1_amd64.deb ...
+Progress: [ 28%] [##Unpacking libnl-route-3-200:amd64 (3.7.0-0.3build1.1) ..................................] 
+Progress: [ 30%] [##Selecting previously unselected package libibverbs1:amd64...............................] 
+2025-04-04 12:57:40 Preparing to unpack .../10-libibverbs1_50.0-2build2_amd64.deb ...
+Progress: [ 31%] [##Unpacking libibverbs1:amd64 (50.0-2build2) .............................................] 
+Progress: [ 32%] [##Selecting previously unselected package ibverbs-providers:amd64.........................] 
+2025-04-04 12:57:40 Preparing to unpack .../11-ibverbs-providers_50.0-2build2_amd64.deb ...
+Progress: [ 33%] [##Unpacking ibverbs-providers:amd64 (50.0-2build2) .......................................] 
+Progress: [ 35%] [##Selecting previously unselected package libpcap0.8t64:amd64.............................] 
+2025-04-04 12:57:40 Preparing to unpack .../12-libpcap0.8t64_1.10.4-4.1ubuntu3_amd64.deb ...
+Progress: [ 36%] [##Unpacking libpcap0.8t64:amd64 (1.10.4-4.1ubuntu3) ......................................] 
+Progress: [ 37%] [##Selecting previously unselected package libblas3:amd64..................................] 
+2025-04-04 12:57:40 Preparing to unpack .../13-libblas3_3.12.0-3build1.1_amd64.deb ...
+Progress: [ 38%] [##Unpacking libblas3:amd64 (3.12.0-3build1.1) ............................................] 
+Progress: [ 40%] [##Selecting previously unselected package liblinear4:amd64................................] 
+2025-04-04 12:57:40 Preparing to unpack .../14-liblinear4_2.3.0+dfsg-5build1_amd64.deb ...
+Progress: [ 41%] [##Unpacking liblinear4:amd64 (2.3.0+dfsg-5build1) ........................................] 
+Progress: [ 42%] [##Selecting previously unselected package liblua5.4-0:amd64...............................] 
+2025-04-04 12:57:40 Preparing to unpack .../15-liblua5.4-0_5.4.6-3build2_amd64.deb ...
+Progress: [ 43%] [##Unpacking liblua5.4-0:amd64 (5.4.6-3build2) ............................................] 
+Progress: [ 44%] [##Selecting previously unselected package libssh2-1t64:amd64..............................] 
+2025-04-04 12:57:40 Preparing to unpack .../16-libssh2-1t64_1.11.0-4.1build2_amd64.deb ...
+Progress: [ 46%] [##Unpacking libssh2-1t64:amd64 (1.11.0-4.1build2) ........................................] 
+Progress: [ 47%] [##Selecting previously unselected package nmap-common.....................................] 
+2025-04-04 12:57:40 Preparing to unpack .../17-nmap-common_7.94+git20230807.3be01efb1+dfsg-3build2_all.deb ...
+Progress: [ 48%] [##Unpacking nmap-common (7.94+git20230807.3be01efb1+dfsg-3build2) ........................] 
+Progress: [ 49%] [##Selecting previously unselected package nmap............................................] 
+2025-04-04 12:57:40 Preparing to unpack .../18-nmap_7.94+git20230807.3be01efb1+dfsg-3build2_amd64.deb ...
+Progress: [ 51%] [##Unpacking nmap (7.94+git20230807.3be01efb1+dfsg-3build2) ...............................] 
+Progress: [ 52%] [##Setting up libexpat1:amd64 (2.6.1-2ubuntu0.2) ..........................................] 
+Progress: [ 54%] [##Setting up libapparmor1:amd64 (4.0.1really4.0.1-0ubuntu0.24.04.3) ......................] 
+Progress: [ 57%] [##Setting up libblas3:amd64 (3.12.0-3build1.1) ...#.......................................] 
+Progress: [ 58%] [##update-alternatives: using /usr/lib/x86_64-linux-gnu/blas/libblas.so.3 to provide /usr/lib/x86_64-linux-gnu/libblas.so.3 (libblas.so.3-x86_64-linux-gnu) in auto mode
+Progress: [ 59%] [##Setting up libdbus-1-3:amd64 (1.14.10-4ubuntu4.1) ......................................] 
+Progress: [ 62%] [##Setting up nmap-common (7.94+git20230807.3be01efb1+dfsg-3build2) .......................] 
+Progress: [ 64%] [##Setting up dbus-session-bus-common (1.14.10-4ubuntu4.1) ................................] 
+Progress: [ 67%] [##Setting up libnl-3-200:amd64 (3.7.0-0.3build1.1) ...#####...............................] 
+Progress: [ 69%] [##Setting up liblua5.4-0:amd64 (5.4.6-3build2) ...############............................] 
+Progress: [ 72%] [##Setting up libssh2-1t64:amd64 (1.11.0-4.1build2) ...##########..........................] 
+Progress: [ 74%] [##Setting up dbus-system-bus-common (1.14.10-4ubuntu4.1) ...######........................] 
+Progress: [ 77%] [##Setting up dbus-bin (1.14.10-4ubuntu4.1) ...######################......................] 
+Progress: [ 79%] [##Setting up dbus-daemon (1.14.10-4ubuntu4.1) ...######################...................] 
+Progress: [ 81%] [##Setting up liblinear4:amd64 (2.3.0+dfsg-5build1) ...###################.................] 
+Progress: [ 84%] [##Setting up libnl-route-3-200:amd64 (3.7.0-0.3build1.1) ...###############...............] 
+Progress: [ 86%] [##Setting up dbus (1.14.10-4ubuntu4.1) ...###################################.............] 
+Progress: [ 89%] [##Setting up libibverbs1:amd64 (50.0-2build2) ...##############################...........] 
+Progress: [ 91%] [##Setting up ibverbs-providers:amd64 (50.0-2build2) ...###########################........] 
+Progress: [ 94%] [##Setting up libpcap0.8t64:amd64 (1.10.4-4.1ubuntu3) ...############################......] 
+Progress: [ 96%] [##Setting up nmap (7.94+git20230807.3be01efb1+dfsg-3build2) ...#######################....] 
+Progress: [ 99%] [##Processing triggers for libc-bin (2.39-0ubuntu8.3) ...################################..] 
+2025-04-04 12:57:41 root@5b268d22e8d6:/# nmap -p 53 google-dns
+2025-04-04 12:57:51 
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-04-04 09:57 UTC
+2025-04-04 12:57:51 Nmap scan report for google-dns (8.8.8.8)
+2025-04-04 12:57:51 Host is up (0.0098s latency).
+2025-04-04 12:57:51 
+2025-04-04 12:57:51 PORT   STATE SERVICE
+2025-04-04 12:57:51 53/tcp open  domain
+2025-04-04 12:57:51 
+2025-04-04 12:57:51 Nmap done: 1 IP address (1 host up) scanned in 0.38 seconds
+2025-04-04 12:58:09 root@5b268d22e8d6:/# iptables -L -n
+2025-04-04 12:58:09 
+bash: iptables: command not found
+2025-04-04 12:58:31 root@5b268d22e8d6:/# telnet google-dns 53
+2025-04-04 12:58:31 
+bash: telnet: command not found
+2025-04-04 12:58:40 root@5b268d22e8d6:/# ping -c 4 google-dns
+2025-04-04 12:58:40 
+bash: ping: command not found
+2025-04-04 12:59:06 root@5b268d22e8d6:/# apt update && apt install -y dnsutils
+2025-04-04 12:59:07 
+
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble InRelease
+2025-04-04 12:59:07 
+            
+2001-02-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security InRelease
+2025-04-04 12:59:07 
+2000-01-01 00:00:00 [Working]
+            
+2001-03-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+2025-04-04 12:59:07 
+2000-01-01 00:00:00 [Working]
+            
+2001-04-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+2025-04-04 12:59:08 
+2000-01-01 00:00:00 [Working]
+2000-01-01 00:00:00 [Working]
+2000-01-01 00:00:00 [Working]
+2000-01-01 00:00:00 [Working]
+20% [Working]
+             
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 83%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 12:59:08 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 12:59:08 
+Reading state information... 0% 
+
+Reading state information... 2%
+
+Reading state information... Done
+
+2025-04-04 12:59:08 20 packages can be upgraded. Run 'apt list --upgradable' to see them.
+2025-04-04 12:59:09 
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 12:59:09 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 12:59:09 
+Reading state information... 0% 
+
+Reading state information... 2%
+
+Reading state information... Done
+
+2025-04-04 12:59:09 dnsutils is already the newest version (1:9.18.30-0ubuntu0.24.04.2).
+2025-04-04 12:59:09 0 upgraded, 0 newly installed, 0 to remove and 20 not upgraded.
+2025-04-04 12:59:24 root@5b268d22e8d6:/# dig cloudflare.com +short
+2025-04-04 12:59:24 
+104.16.132.229
+2025-04-04 12:59:24 104.16.133.229
+2025-04-04 12:59:46 root@5b268d22e8d6:/# echo "8.8.8.8 google-dns" >> /etc/hosts
+2025-04-04 12:59:52 
+root@5b268d22e8d6:/# cat /etc/hosts
+2025-04-04 12:59:52 
+127.0.0.1localhost
+2025-04-04 12:59:52 ::1localhost ip6-localhost ip6-loopback
+2025-04-04 12:59:52 fe00::ip6-localnet
+2025-04-04 12:59:52 ff00::ip6-mcastprefix
+2025-04-04 12:59:52 ff02::1ip6-allnodes
+2025-04-04 12:59:52 ff02::2ip6-allrouters
+2025-04-04 12:59:52 172.17.0.35b268d22e8d6
+2025-04-04 12:59:52 8.8.8.8 google-dns
+2025-04-04 12:59:52 8.8.8.8 google-dns
+2025-04-04 13:00:01 root@5b268d22e8d6:/# ping -c 4 google-dns
+2025-04-04 13:00:01 
+bash: ping: command not found
+2025-04-04 13:00:57 root@5b268d22e8d6:/# ping google-dns
+2025-04-04 13:00:57 
+bash: ping: command not found
+2025-04-04 13:01:21 root@5b268d22e8d6:/# ping -c google-dns
+2025-04-04 13:01:21 
+bash: ping: command not found
+2025-04-04 13:01:42 root@5b268d22e8d6:/# nc -zv google-dns 53
+2025-04-04 13:01:42 
+bash: nc: command not found
+2025-04-04 13:02:10 root@5b268d22e8d6:/# echo "nameserver 8.8.8.8" > /etc/resolv.conf
+2025-04-04 13:02:19 
+root@5b268d22e8d6:/# cat /etc/resolv.conf
+2025-04-04 13:02:19 
+nameserver 8.8.8.8
+2025-04-04 13:02:31 root@5b268d22e8d6:/# nslookup cloudflare.com
+2025-04-04 13:02:31 
+2008-08-08 00:00:00 Server:8.8.8.8
+2025-04-04 13:02:31 Address:8.8.8.8#53
+2025-04-04 13:02:31 
+2025-04-04 13:02:31 Non-authoritative answer:
+2025-04-04 13:02:31 Name:cloudflare.com
+2025-04-04 13:02:31 Address: 104.16.132.229
+2025-04-04 13:02:31 Name:cloudflare.com
+2025-04-04 13:02:31 Address: 104.16.133.229
+2025-04-04 13:02:31 Name:cloudflare.com
+2025-04-04 13:02:31 Address: 2606:4700::6810:85e5
+2025-04-04 13:02:31 Name:cloudflare.com
+2025-04-04 13:02:31 Address: 2606:4700::6810:84e5
+2025-04-04 13:02:31 
+2025-04-04 13:03:22 root@5b268d22e8d6:/# apt update && apt install -y nginx
+2025-04-04 13:03:22 
+
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security InRelease
+2025-04-04 13:03:22 
+2000-01-01 00:00:00 [Connected to archive.ubuntu.com (91.189.91.82)]
+                                                   
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-02-01 00:00:00 http://archive.ubuntu.com/ubuntu noble InRelease
+2025-04-04 13:03:22 
+                        
+2000-01-01 00:00:00 [Working]
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-03-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+2025-04-04 13:03:22 
+                        
+2000-01-01 00:00:00 [Working]
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-04-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+2025-04-04 13:03:23 
+                        
+2000-01-01 00:00:00 [Working]
+20% [Working]
+             
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 94%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 13:03:24 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 13:03:24 
+Reading state information... 0% 
+
+Reading state information... 2%
+
+Reading state information... Done
+
+2025-04-04 13:03:24 20 packages can be upgraded. Run 'apt list --upgradable' to see them.
+2025-04-04 13:03:24 
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 13:03:25 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 16%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 13:03:25 
+Reading state information... 0% 
+
+Reading state information... 2%
+
+Reading state information... Done
+
+2025-04-04 13:03:25 The following additional packages will be installed:
+2025-04-04 13:03:25   iproute2 libatm1t64 libbpf1 libcap2 libcap2-bin libelf1t64 libmnl0 libpam-cap libtirpc-common libtirpc3t64
+2025-04-04 13:03:25   libxtables12 nginx-common
+2025-04-04 13:03:25 Suggested packages:
+2025-04-04 13:03:25   iproute2-doc python3:any fcgiwrap nginx-doc ssl-cert
+2025-04-04 13:03:25 The following NEW packages will be installed:
+2025-04-04 13:03:25   iproute2 libatm1t64 libbpf1 libcap2-bin libelf1t64 libmnl0 libpam-cap libtirpc-common libtirpc3t64
+2025-04-04 13:03:25   libxtables12 nginx nginx-common
+2025-04-04 13:03:25 The following packages will be upgraded:
+2025-04-04 13:03:25   libcap2
+2025-04-04 13:03:25 1 upgraded, 12 newly installed, 0 to remove and 19 not upgraded.
+2025-04-04 13:03:25 Need to get 2133 kB of archives.
+2025-04-04 13:03:25 After this operation, 6052 kB of additional disk space will be used.
+2025-04-04 13:03:25 
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libcap2 amd64 1:2.66-5ubuntu2.2 [30.0 kB]
+2025-04-04 13:03:25 
+2001-01-01 00:00:00 [1 libcap2 13.7 kB/30.0 kB 46%]
+                                  
+2001-03-01 00:00:00 [Working]
+            
+2001-02-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libelf1t64 amd64 0.190-1.1ubuntu0.1 [57.8 kB]
+2025-04-04 13:03:25 
+2001-04-01 00:00:00 [2 libelf1t64 24.9 kB/57.8 kB 43%]
+                                     
+2001-06-01 00:00:00 [Waiting for headers]
+                        
+2001-03-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libbpf1 amd64 1:1.3.0-2build2 [166 kB]
+2025-04-04 13:03:26 
+2001-06-01 00:00:00 [3 libbpf1 1808 B/166 kB 1%]
+                               
+14% [Waiting for headers]
+                         
+2001-04-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libmnl0 amd64 1.0.5-2build1 [12.3 kB]
+2025-04-04 13:03:26 
+14% [4 libmnl0 984 B/12.3 kB 8%]
+                                
+16% [Waiting for headers]
+                         
+2001-05-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libtirpc-common all 1.3.4+ds-1.1build1 [8094 B]
+2025-04-04 13:03:26 
+16% [5 libtirpc-common 1231 B/8094 B 15%]
+                                         
+18% [Waiting for headers]
+                         
+2001-06-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libtirpc3t64 amd64 1.3.4+ds-1.1build1 [82.6 kB]
+2025-04-04 13:03:26 
+18% [6 libtirpc3t64 1246 B/82.6 kB 2%]
+                                      
+23% [Waiting for headers]
+                         
+2001-07-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libxtables12 amd64 1.8.10-3ubuntu2 [35.7 kB]
+2025-04-04 13:03:26 
+23% [7 libxtables12 8304 B/35.7 kB 23%]
+                                       
+25% [Waiting for headers]
+                         
+2001-08-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libcap2-bin amd64 1:2.66-5ubuntu2.2 [34.2 kB]
+2025-04-04 13:03:26 
+26% [8 libcap2-bin 1078 B/34.2 kB 3%]
+                                     
+28% [Waiting for headers]
+                         
+2001-09-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 iproute2 amd64 6.1.0-1ubuntu6 [1120 kB]
+2025-04-04 13:03:26 
+29% [9 iproute2 7214 B/1120 kB 1%]
+                                  
+1972-01-01 00:00:00 [Waiting for headers]
+                         
+2001-10-01 00:00:00 http://archive.ubuntu.com/ubuntu noble/main amd64 libatm1t64 amd64 1:2.5.1-5.1build1 [22.9 kB]
+2025-04-04 13:03:26 
+1972-01-01 00:00:00 [10 libatm1t64 4096 B/22.9 kB 18%]
+                                      
+1974-01-01 00:00:00 [Waiting for headers]
+                         
+2001-11-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libpam-cap amd64 1:2.66-5ubuntu2.2 [12.5 kB]
+2025-04-04 13:03:26 
+1975-01-01 00:00:00 [11 libpam-cap 12.5 kB/12.5 kB 100%]
+                                        
+1976-01-01 00:00:00 [Waiting for headers]
+                         
+2001-12-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 nginx-common all 1.24.0-2ubuntu7.3 [31.2 kB]
+2025-04-04 13:03:26 
+1977-01-01 00:00:00 [12 nginx-common 8690 B/31.2 kB 28%]
+                                        
+1979-01-01 00:00:00 [Waiting for headers]
+                         
+Get:13 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 nginx amd64 1.24.0-2ubuntu7.3 [520 kB]
+2025-04-04 13:03:26 
+1979-01-01 00:00:00 [13 nginx 8360 B/520 kB 2%]
+                               
+0100-01-01 00:00:00 [Working]
+              
+Fetched 2133 kB in 1s (2309 kB/s)
+2025-04-04 13:03:26 debconf: delaying package configuration, since apt-utils is not installed
+2025-04-04 13:03:26 (Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 5633 files and directories currently installed.)
+2025-04-04 13:03:26 Preparing to unpack .../libcap2_1%3a2.66-5ubuntu2.2_amd64.deb ...
+Progress: [  2%] [#.Unpacking libcap2:amd64 (1:2.66-5ubuntu2.2) over (1:2.66-5ubuntu2) .....................] 
+Progress: [  4%] [##Setting up libcap2:amd64 (1:2.66-5ubuntu2.2) ...........................................] 
+Progress: [  8%] [##Selecting previously unselected package libelf1t64:amd64................................] 
+2025-04-04 13:03:26 (Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 5633 files and directories currently installed.)
+2025-04-04 13:03:26 Preparing to unpack .../00-libelf1t64_0.190-1.1ubuntu0.1_amd64.deb ...
+Progress: [  9%] [##Unpacking libelf1t64:amd64 (0.190-1.1ubuntu0.1) ........................................] 
+Progress: [ 11%] [##Selecting previously unselected package libbpf1:amd64...................................] 
+2025-04-04 13:03:26 Preparing to unpack .../01-libbpf1_1%3a1.3.0-2build2_amd64.deb ...
+Progress: [ 13%] [##Unpacking libbpf1:amd64 (1:1.3.0-2build2) ..............................................] 
+Progress: [ 15%] [##Selecting previously unselected package libmnl0:amd64...................................] 
+2025-04-04 13:03:26 Preparing to unpack .../02-libmnl0_1.0.5-2build1_amd64.deb ...
+Progress: [ 17%] [##Unpacking libmnl0:amd64 (1.0.5-2build1) ................................................] 
+Progress: [ 19%] [##Selecting previously unselected package libtirpc-common.................................] 
+2025-04-04 13:03:26 Preparing to unpack .../03-libtirpc-common_1.3.4+ds-1.1build1_all.deb ...
+Progress: [ 21%] [##Unpacking libtirpc-common (1.3.4+ds-1.1build1) .........................................] 
+Progress: [ 23%] [##Selecting previously unselected package libtirpc3t64:amd64..............................] 
+2025-04-04 13:03:27 Preparing to unpack .../04-libtirpc3t64_1.3.4+ds-1.1build1_amd64.deb ...
+Progress: [ 25%] [##Adding 'diversion of /lib/x86_64-linux-gnu/libtirpc.so.3 to /lib/x86_64-linux-gnu/libtirpc.so.3.usr-is-merged by libtirpc3t64'
+2025-04-04 13:03:27 Adding 'diversion of /lib/x86_64-linux-gnu/libtirpc.so.3.0.0 to /lib/x86_64-linux-gnu/libtirpc.so.3.0.0.usr-is-merged by libtirpc3t64'
+2025-04-04 13:03:27 Unpacking libtirpc3t64:amd64 (1.3.4+ds-1.1build1) ...
+Progress: [ 26%] [##Selecting previously unselected package libxtables12:amd64..............................] 
+2025-04-04 13:03:27 Preparing to unpack .../05-libxtables12_1.8.10-3ubuntu2_amd64.deb ...
+Progress: [ 28%] [##Unpacking libxtables12:amd64 (1.8.10-3ubuntu2) .........................................] 
+Progress: [ 30%] [##Selecting previously unselected package libcap2-bin.....................................] 
+2025-04-04 13:03:27 Preparing to unpack .../06-libcap2-bin_1%3a2.66-5ubuntu2.2_amd64.deb ...
+Progress: [ 32%] [##Unpacking libcap2-bin (1:2.66-5ubuntu2.2) ..............................................] 
+Progress: [ 34%] [##Selecting previously unselected package iproute2........................................] 
+2025-04-04 13:03:27 Preparing to unpack .../07-iproute2_6.1.0-1ubuntu6_amd64.deb ...
+Progress: [ 36%] [##Unpacking iproute2 (6.1.0-1ubuntu6) ....................................................] 
+Progress: [ 38%] [##Selecting previously unselected package libatm1t64:amd64................................] 
+2025-04-04 13:03:27 Preparing to unpack .../08-libatm1t64_1%3a2.5.1-5.1build1_amd64.deb ...
+Progress: [ 40%] [##Unpacking libatm1t64:amd64 (1:2.5.1-5.1build1) .........................................] 
+Progress: [ 42%] [##Selecting previously unselected package libpam-cap:amd64................................] 
+2025-04-04 13:03:27 Preparing to unpack .../09-libpam-cap_1%3a2.66-5ubuntu2.2_amd64.deb ...
+Progress: [ 43%] [##Unpacking libpam-cap:amd64 (1:2.66-5ubuntu2.2) .........................................] 
+Progress: [ 45%] [##Selecting previously unselected package nginx-common....................................] 
+2025-04-04 13:03:27 Preparing to unpack .../10-nginx-common_1.24.0-2ubuntu7.3_all.deb ...
+Progress: [ 47%] [##Unpacking nginx-common (1.24.0-2ubuntu7.3) .............................................] 
+Progress: [ 49%] [##Selecting previously unselected package nginx...........................................] 
+2025-04-04 13:03:27 Preparing to unpack .../11-nginx_1.24.0-2ubuntu7.3_amd64.deb ...
+Progress: [ 51%] [##Unpacking nginx (1.24.0-2ubuntu7.3) ...####.............................................] 
+Progress: [ 53%] [##Setting up libatm1t64:amd64 (1:2.5.1-5.1build1) ........................................] 
+Progress: [ 57%] [##Setting up libtirpc-common (1.3.4+ds-1.1build1) ........................................] 
+Progress: [ 60%] [##Setting up libelf1t64:amd64 (0.190-1.1ubuntu0.1) .......................................] 
+Progress: [ 64%] [##Setting up libcap2-bin (1:2.66-5ubuntu2.2) ...#########.................................] 
+Progress: [ 68%] [##Setting up libmnl0:amd64 (1.0.5-2build1) ...###############.............................] 
+Progress: [ 72%] [##Setting up libxtables12:amd64 (1.8.10-3ubuntu2) ...###########..........................] 
+Progress: [ 75%] [##Setting up libpam-cap:amd64 (1:2.66-5ubuntu2.2) ...##############.......................] 
+Progress: [ 77%] [##debconf: unable to initialize frontend: Dialog#####################.....................] 
+2025-04-04 13:03:27 debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+2025-04-04 13:03:27 debconf: falling back to frontend: Readline
+2025-04-04 13:03:27 debconf: unable to initialize frontend: Readline
+2025-04-04 13:03:27 debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/x86_64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+2025-04-04 13:03:27 debconf: falling back to frontend: Teletype
+Progress: [ 79%] [##Setting up libbpf1:amd64 (1:1.3.0-2build2) ...#######################...................] 
+Progress: [ 83%] [##Setting up libtirpc3t64:amd64 (1.3.4+ds-1.1build1) ...##################................] 
+Progress: [ 87%] [##Setting up iproute2 (6.1.0-1ubuntu6) ...####################################............] 
+Progress: [ 89%] [##debconf: unable to initialize frontend: Dialog###############################...........] 
+2025-04-04 13:03:27 debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+2025-04-04 13:03:27 debconf: falling back to frontend: Readline
+2025-04-04 13:03:27 debconf: unable to initialize frontend: Readline
+2025-04-04 13:03:27 debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/x86_64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+2025-04-04 13:03:27 debconf: falling back to frontend: Teletype
+Progress: [ 91%] [##Setting up nginx (1.24.0-2ubuntu7.3) ...#######################################.........] 
+Progress: [ 92%] [##invoke-rc.d: unknown initscript, /etc/init.d/nginx not found.####################.......] 
+2025-04-04 13:03:28 invoke-rc.d: could not determine current runlevel
+Progress: [ 94%] [##Setting up nginx-common (1.24.0-2ubuntu7.3) ...###################################......] 
+Progress: [ 96%] [##debconf: unable to initialize frontend: Dialog######################################....] 
+2025-04-04 13:03:28 debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+2025-04-04 13:03:28 debconf: falling back to frontend: Readline
+2025-04-04 13:03:28 debconf: unable to initialize frontend: Readline
+2025-04-04 13:03:28 debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/x86_64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+2025-04-04 13:03:28 debconf: falling back to frontend: Teletype
+Progress: [ 98%] [##Processing triggers for libc-bin (2.39-0ubuntu8.3) ...################################..] 
+2025-04-04 13:03:28 root@5b268d22e8d6:/# service nginx start
+2025-04-04 13:03:36 
+ * Starting nginx nginx        
+[ OK ]
+2025-04-04 13:03:45 root@5b268d22e8d6:/# service nginx status
+2025-04-04 13:03:45 
+ * nginx is running
+2025-04-04 13:04:16 root@5b268d22e8d6:/# netstat -tulnp | grep nginx
+2025-04-04 13:04:16 
+bash: netstat: command not found
+2025-04-04 13:04:27 root@5b268d22e8d6:/# ss -tulnp | grep nginx
+2025-04-04 13:04:27 
+tcp   LISTEN 0      511          0.0.0.0:80        0.0.0.0:*    users:(("nginx",pid=1229,fd=5))
+2025-04-04 13:04:27 tcp   LISTEN 0      511             [::]:80           [::]:*    users:(("nginx",pid=1229,fd=6))
+2025-04-04 13:05:19 root@5b268d22e8d6:/# nano /etc/nginx/sites-available/default
+2025-04-04 13:05:19 
+bash: nano: command not found
+2025-04-04 13:06:35 root@5b268d22e8d6:/# vi /etc/nginx/sites-available/default
+2025-04-04 13:06:35 
+bash: vi: command not found
+2025-04-04 13:10:03 root@5b268d22e8d6:/# apt update && apt install -y nano
+2025-04-04 13:10:03 
+
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble InRelease
+2025-04-04 13:10:03 
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-02-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+2025-04-04 13:10:03 
+2000-01-01 00:00:00 [2 InRelease 15.1 kB/126 kB 12%] [Waiting for headers]
+2000-01-01 00:00:00 [2 InRelease 15.1 kB/126 kB 12%] [Waiting for headers]
+                                                         
+2001-03-01 00:00:00 http://security.ubuntu.com/ubuntu noble-security InRelease
+2025-04-04 13:10:03 
+                                                         
+2000-01-01 00:00:00 [2 InRelease 20.9 kB/126 kB 17%]
+2000-01-01 00:00:00 [2 InRelease 62.7 kB/126 kB 50%]
+                                   
+2000-01-01 00:00:00 [Working]
+2000-01-01 00:00:00 [Waiting for headers]
+                        
+2001-04-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+2025-04-04 13:10:03 
+                        
+2000-01-01 00:00:00 [Working]
+0100-01-01 00:00:00 [Working]
+              
+Fetched 126 kB in 1s (147 kB/s)
+2025-04-04 13:10:04 
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 91%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 13:10:05 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 13:10:05 
+Reading state information... 0% 
+
+Reading state information... 2%
+
+Reading state information... Done
+
+2025-04-04 13:10:05 19 packages can be upgraded. Run 'apt list --upgradable' to see them.
+2025-04-04 13:10:05 
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+2025-04-04 13:10:06 
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+2025-04-04 13:10:06 
+Reading state information... 0% 
+
+Reading state information... 2%
+
+Reading state information... Done
+
+2025-04-04 13:10:06 Suggested packages:
+2025-04-04 13:10:06   hunspell
+2025-04-04 13:10:06 The following NEW packages will be installed:
+2025-04-04 13:10:06   nano
+2025-04-04 13:10:06 0 upgraded, 1 newly installed, 0 to remove and 19 not upgraded.
+2025-04-04 13:10:06 Need to get 282 kB of archives.
+2025-04-04 13:10:06 After this operation, 856 kB of additional disk space will be used.
+2025-04-04 13:10:06 
+2000-01-01 00:00:00 [Working]
+            
+2001-01-01 00:00:00 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 nano amd64 7.2-2ubuntu0.1 [282 kB]
+2025-04-04 13:10:07 
+2001-04-01 00:00:00 [1 nano 13.7 kB/282 kB 5%]
+26% [1 nano 92.1 kB/282 kB 33%]
+                               
+1979-01-01 00:00:00 [1 nano 280 kB/282 kB 99%]
+                              
+0100-01-01 00:00:00 [Working]
+              
+Fetched 282 kB in 1s (203 kB/s)
+2025-04-04 13:10:08 debconf: delaying package configuration, since apt-utils is not installed
+2025-04-04 13:10:08 Selecting previously unselected package nano.
+2025-04-04 13:10:08 (Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 5939 files and directories currently installed.)
+2025-04-04 13:10:08 Preparing to unpack .../nano_7.2-2ubuntu0.1_amd64.deb ...
+Progress: [ 20%] [##Unpacking nano (7.2-2ubuntu0.1) ........................................................] 
+Progress: [ 40%] [##Setting up nano (7.2-2ubuntu0.1) .......................................................] 
+Progress: [ 60%] [##update-alternatives: using /bin/nano to provide /usr/bin/editor (editor) in auto mode...] 
+2025-04-04 13:10:08 update-alternatives: warning: skip creation of /usr/share/man/man1/editor.1.gz because associated file /usr/share/man/man1/nano.1.gz (of link group editor) doesn't exist
+2025-04-04 13:10:08 update-alternatives: using /bin/nano to provide /usr/bin/pico (pico) in auto mode
+2025-04-04 13:10:08 update-alternatives: warning: skip creation of /usr/share/man/man1/pico.1.gz because associated file /usr/share/man/man1/nano.1.gz (of link group pico) doesn't exist
+Progress: [ 80%] [##root@5b268d22e8d6:/# nano /etc/nginx/sites-available/default
+2025-04-04 13:10:42 
+
+root@5b268d22e8d6:/# sed -i 's/listen 80/listen 8080 /g' /etc/nginx/sites-available/default
+2025-04-04 13:14:54 
+root@5b268d22e8d6:/# sed -i 's/listen \[::\]:80 /listen \[::\]:8080 /g' /etc/nginx/sites-available/default
+2025-04-04 13:15:04 
+root@5b268d22e8d6:/# service nginx restart
+2025-04-04 13:15:05 
+ * Restarting nginx nginx        
+[fail]
+2025-04-04 13:15:18 root@5b268d22e8d6:/# ss -tulnp | grep nginx
+2025-04-04 13:15:18 
+tcp   LISTEN 0      511          0.0.0.0:80        0.0.0.0:*    users:(("nginx",pid=1229,fd=5))
+2025-04-04 13:15:18 tcp   LISTEN 0      511             [::]:80           [::]:*    users:(("nginx",pid=1229,fd=6))
+2025-04-04 13:17:43 root@5b268d22e8d6:/#   
